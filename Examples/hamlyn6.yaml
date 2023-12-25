@@ -1,0 +1,95 @@
+%YAML:1.0
+
+#--------------------------------------------------------------------------------------------
+# Camera Parameters. Adjust them!
+#--------------------------------------------------------------------------------------------
+
+# Camera calibration and distortion parameters (OpenCV) 
+Camera.fx: 695.877
+Camera.fy: 695.877
+Camera.cx: 280.402
+Camera.cy: 252.380
+
+Camera.k1: 0.0
+Camera.k2: 0.0
+Camera.p1: 0.0
+Camera.p2: 0.0
+
+Camera.width: 640
+Camera.height: 480
+
+# Camera frames per second 
+Camera.fps: 30.0
+
+# stereo baseline times fx
+Camera.bf: 3743.1
+
+# Color order of the images (0: BGR, 1: RGB. It is ignored if images are grayscale)
+Camera.RGB: 1
+
+# Close/Far threshold. Baseline times.
+ThDepth: 20
+
+#--------------------------------------------------------------------------------------------
+# ORB Parameters
+#--------------------------------------------------------------------------------------------
+
+# ORB Extractor: Number of features per image
+ORBextractor.nFeatures: 2000
+
+# ORB Extractor: Scale factor between levels in the scale pyramid 	
+ORBextractor.scaleFactor: 1.2
+
+# ORB Extractor: Number of levels in the scale pyramid	
+ORBextractor.nLevels: 8
+
+# ORB Extractor: Fast threshold
+# Image is divided in a grid. At each cell FAST are extracted imposing a minimum response.
+# Firstly we impose iniThFAST. If no corners are detected we impose a lower value minThFAST
+# You can lower these values if your images have low contrast			
+ORBextractor.iniThFAST: 20
+ORBextractor.minThFAST: 15
+
+#--------------------------------------------------------------------------------------------
+# Viewer Parameters
+#--------------------------------------------------------------------------------------------
+Viewer.KeyFrameSize: 0.6
+Viewer.KeyFrameLineWidth: 2
+Viewer.GraphLineWidth: 1
+Viewer.PointSize: 2.5
+Viewer.CameraSize: 2
+Viewer.CameraLineWidth: 1
+Viewer.ViewpointX: -150
+Viewer.ViewpointY: -0.1
+Viewer.ViewpointZ: -200
+Viewer.ViewpointF: 1000
+
+#--------------------------------------------------------------------------------------------
+# BDIS Parameters
+#--------------------------------------------------------------------------------------------
+BDISparam.lv_f: 5
+BDISparam.lv_l: 1
+BDISparam.maxiter: 12
+BDISparam.miniter: 12
+BDISparam.mindprate: 0.05
+BDISparam.mindrrate: 0.95
+BDISparam.minimgerr: 0
+BDISparam.patchsz: 10
+BDISparam.poverl: 0.60
+BDISparam.usefbcon: 0
+BDISparam.patnorm: 1
+BDISparam.costfct: 0
+BDISparam.verbosity: 0
+BDISparam.ratio_patch_valid: 0.25
+BDISparam.num_window: 2
+BDISparam.unit_disturb: 0.5
+BDISparam.min_prob: 0.15
+BDISparam.bool_var: 0
+
+#--------------------------------------------------------------------------------------------
+# BDIS Parameters
+#--------------------------------------------------------------------------------------------
+Viewer3D.depth_gap: 5
+
+
+

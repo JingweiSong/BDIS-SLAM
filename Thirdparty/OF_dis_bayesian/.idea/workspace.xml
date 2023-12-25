@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FastPatchOF" targetName="run_DE_INT" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="32965d4e-2b4f-431a-ac2e-7a88afe163f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1n3EZp48YIuuJZflehZSrsbQy1S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ORBslam/ORB_SLAM2" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_DE_INT" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$USER_HOME$/dataset/hamlyn/31/images_rectified 1 output 5 1 12 12 0.05 0.95 0 10 0.60 0 1 0 2 0.25 2 1 0.05 1" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FastPatchOF" TARGET_NAME="run_DE_INT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FastPatchOF" RUN_TARGET_NAME="run_DE_INT">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32965d4e-2b4f-431a-ac2e-7a88afe163f7" name="Default Changelist" comment="" />
+      <created>1610610442314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610610442314</updated>
+      <workItem from="1610610450025" duration="50000" />
+      <workItem from="1612340273431" duration="9864000" />
+      <workItem from="1612415612120" duration="15539000" />
+      <workItem from="1612487423107" duration="5828000" />
+      <workItem from="1612502257261" duration="13788000" />
+      <workItem from="1612518653893" duration="3643000" />
+      <workItem from="1612528367475" duration="2375000" />
+      <workItem from="1612579703304" duration="1564000" />
+      <workItem from="1612589006759" duration="6410000" />
+      <workItem from="1612603208213" duration="2328000" />
+      <workItem from="1613806157190" duration="127000" />
+      <workItem from="1613973465584" duration="3255000" />
+      <workItem from="1613984916415" duration="290000" />
+      <workItem from="1614336516918" duration="25000" />
+      <workItem from="1615457836305" duration="2379000" />
+      <workItem from="1615544331611" duration="2146000" />
+      <workItem from="1615800846536" duration="4274000" />
+      <workItem from="1615881038429" duration="372000" />
+      <workItem from="1616140386881" duration="7433000" />
+      <workItem from="1616290973048" duration="4797000" />
+      <workItem from="1616303868714" duration="19092000" />
+      <workItem from="1616491705760" duration="5117000" />
+      <workItem from="1616908799342" duration="9604000" />
+      <workItem from="1616985042335" duration="711000" />
+      <workItem from="1616995798774" duration="11241000" />
+      <workItem from="1617014399103" duration="973000" />
+      <workItem from="1617089788884" duration="11039000" />
+      <workItem from="1617101943278" duration="68000" />
+      <workItem from="1617155433394" duration="4903000" />
+      <workItem from="1617175875161" duration="4060000" />
+      <workItem from="1618296272648" duration="1140000" />
+      <workItem from="1627890226015" duration="1157000" />
+      <workItem from="1627893543971" duration="85000" />
+      <workItem from="1627893878881" duration="351000" />
+      <workItem from="1627895993166" duration="27000" />
+      <workItem from="1630650913713" duration="4179000" />
+      <workItem from="1630655425411" duration="74000" />
+      <workItem from="1630922930505" duration="1743000" />
+      <workItem from="1630925273234" duration="420000" />
+      <workItem from="1630996463260" duration="475000" />
+      <workItem from="1630996974363" duration="302000" />
+      <workItem from="1630997310816" duration="162000" />
+      <workItem from="1630997531434" duration="320000" />
+      <workItem from="1630997882782" duration="725000" />
+      <workItem from="1631001940570" duration="170000" />
+      <workItem from="1631094649347" duration="1690000" />
+      <workItem from="1631096585382" duration="1872000" />
+      <workItem from="1631165521468" duration="834000" />
+      <workItem from="1631167479459" duration="743000" />
+      <workItem from="1631168364360" duration="504000" />
+      <workItem from="1631169092770" duration="1126000" />
+      <workItem from="1631171086587" duration="11731000" />
+      <workItem from="1631251884734" duration="10353000" />
+      <workItem from="1631585066907" duration="1307000" />
+      <workItem from="1631597745708" duration="273000" />
+      <workItem from="1631599006165" duration="186000" />
+      <workItem from="1633942743349" duration="1725000" />
+      <workItem from="1633949007638" duration="197000" />
+      <workItem from="1634978059450" duration="35000" />
+      <workItem from="1636532984711" duration="1975000" />
+      <workItem from="1636712994804" duration="1108000" />
+      <workItem from="1636714333499" duration="292000" />
+      <workItem from="1636941269386" duration="2923000" />
+      <workItem from="1636956341296" duration="5521000" />
+      <workItem from="1637652911328" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="*(bayesian_prob+3)" language="ObjectiveC" />
+        <watch expression="*(bayesian_prob+k)" language="ObjectiveC" />
+        <watch expression="probabilityout[i]" />
+        <watch expression="var_pat" />
+        <watch expression="we[i]" />
+        <watch expression="*var" />
+        <watch expression="op" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>
